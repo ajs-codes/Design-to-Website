@@ -4,3 +4,6 @@
 .letter-spacing {
     letter-spacing: 6px;
 }
+.letter-spacing-sm{
+    letter-spacing: 3px;
+}
